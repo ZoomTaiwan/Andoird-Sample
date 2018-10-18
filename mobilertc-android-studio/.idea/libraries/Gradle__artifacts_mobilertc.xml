@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:mobilertc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/dc4d5afa7833f216aa351861d0a74acc/jars/libs/protobuf-java-2.4.1-lite.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/dc4d5afa7833f216aa351861d0a74acc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mobilertc.aar/dc4d5afa7833f216aa351861d0a74acc/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
